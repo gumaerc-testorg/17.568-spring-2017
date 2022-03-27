@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 888cc977-1caa-5c95-437c-9e5163b519f8
 resourcetype: Document
 title: '17.568S17 Comparative Politics and International Relations of the Middle East
   - Assignments: Student Example 2'
