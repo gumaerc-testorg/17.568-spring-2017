@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/3c22fb86372d05b1378151547e76b0e6_MIT17_568S17_Authoritarianism.pdf
+file: /courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/3c22fb86372d05b1378151547e76b0e6_MIT17_568S17_Authoritarianism.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

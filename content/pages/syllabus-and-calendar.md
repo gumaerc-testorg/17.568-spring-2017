@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -30,7 +31,7 @@ Our goals for the class are to (1) discuss and critique current research about M
 
 _Reading:_
 
-You should **read required readings prior to class**. For specific selections, see the [Readings]({{< baseurl >}}/pages/readings) section.
+You should **read required readings prior to class**. For specific selections, see the {{% resource_link 771bc34c-0db3-6cc1-1e9b-c2ba66bef61e "Readings" %}} section.
 
 _Participation (25% of grade):_
 
@@ -42,7 +43,7 @@ _Writing (75% of grade):_
 
 We need to see and evaluate some writing. There are three main options: (1) a seminar paper, (2) a research proposal/grant proposal (without empirical analysis), or (3) six response papers reacting to course readings (approximately 1,500 words each). Other genres require instructor permission; you will need to describe how writing in a different genre will help you and meet the goals of the class. 
 
-For more information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information, see the {{% resource_link 888cc977-1caa-5c95-437c-9e5163b519f8 "Assignments" %}} section.
 
 Calendar
 --------
