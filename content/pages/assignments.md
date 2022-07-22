@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information on the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 888cc977-1caa-5c95-437c-9e5163b519f8
 ---
@@ -22,8 +26,8 @@ Writing comprises 75% of the final grade.
 
 _Student Examples - Response Papers_
 
-["Authoritarianism" (PDF)]({{< baseurl >}}/resources/mit17_568s17_authoritarianism)
+{{% resource_link 3c22fb86-372d-05b1-3781-51547e76b0e6 "\"Authoritarianism\" (PDF)" %}}
 
-["Political Violence" (PDF)]({{< baseurl >}}/resources/mit17_568s17_political_violence)
+{{% resource_link 7b6b2aff-340c-1bea-87db-198054b0244a "\"Political Violence\" (PDF)" %}}
 
 Student examples appear courtesy of MIT students and are anonymous by request.
