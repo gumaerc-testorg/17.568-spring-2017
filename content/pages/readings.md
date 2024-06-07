@@ -36,19 +36,19 @@ Politics of Knowledge in Middle East Political Science
 
 _Required readings:_
 
-Lust-Okar, Ellen, Lisa Anderson, Steve Heydemann, et al. {{% resource_link "8c1c6250-def4-4880-89e7-4192e9df2612" "\"Comparative Politics of the Middle East and Academic Freedom.\" (PDF)" %}} _APSA-CP Newsletter 18_ (Winter 2007): 12–15.
+Lust-Okar, Ellen, Lisa Anderson, Steve Heydemann, et al. ["Comparative Politics of the Middle East and Academic Freedom." (PDF)](http://www.melanicammett.org/wp-content/uploads/2017/10/Cammett_APSA_CPnewsletter_Winter2007.pdf) _APSA-CP Newsletter 18_ (Winter 2007): 12–15.
 
-{{% resource_link "ca93c822-71b8-49da-98db-51a343e1b110" "\"The Ethics of Research in the Middle East.\" (PDF)" %}} POMEPS Studies 8, July 2, 2014.
+["The Ethics of Research in the Middle East." (PDF)](https://pomeps.org/wp-content/uploads/2014/07/POMEPS_Studies_8_Ethics.pdf) POMEPS Studies 8, July 2, 2014.
 
 _More resources:_
 
-Said, Edward W. _Orientalism: 25th Anniversary Edition._ Vintage Books, 1979. ISBN: 9780394740676. \[Preview with {{% resource_link "7ea84a4a-8c02-4d60-89c1-31d51f936067" "Google Books" %}}\]
+Said, Edward W. _Orientalism: 25th Anniversary Edition._ Vintage Books, 1979. ISBN: 9780394740676. \[Preview with [Google Books](https://books.google.com/books?id=npF5BAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-———. "{{% resource_link "2193d83b-ed38-418a-8ae6-48d084952b84" "Islam through Western Eyes" %}}." _The Nation_, April 26, 1980.
+———. "[Islam through Western Eyes](https://www.thenation.com/article/islam-through-western-eyes/)." _The Nation_, April 26, 1980.
 
-Lockman, Zachary. _Contending Visions of the Middle East: The History and Politics of Orientalism_. 2nd edition. Cambridge University Press, 2009. ISBN: 9780521133074. \[Preview with {{% resource_link "92a7e69f-ed14-48e1-b303-2f38bd316b01" "Google Books" %}}\]
+Lockman, Zachary. _Contending Visions of the Middle East: The History and Politics of Orientalism_. 2nd edition. Cambridge University Press, 2009. ISBN: 9780521133074. \[Preview with [Google Books](https://books.google.com/books?id=RcNgVYph6OkC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-McMurtie, Beth. "{{% resource_link "431fa000-d0df-4277-b3b6-b1302fa5cc95" "Terrorism Experts Are Sought by the Public but Not by Academe" %}}," _Chronicle of Higher Education_, June 24, 2013.
+McMurtie, Beth. "[Terrorism Experts Are Sought by the Public but Not by Academe](https://www.chronicle.com/article/terrorism-experts-are-sought/139957?cid=wb)," _Chronicle of Higher Education_, June 24, 2013.
 
 
 {{< tdclose >}}
@@ -66,37 +66,37 @@ Political Violence: Ideas and Structure
 
 _Required readings:_ 
 
-Nielsen, Richard A. "Why Clerics Turn Deadly." Chapter 1 in _Deadly Clerics: Blocked Ambition and the Path to Jihad_. Cambridge University Press. ISBN: 9781108404051. \[Preview with {{% resource_link "b744f8ba-3f6b-4374-8ef9-64549449d857" "Google Books" %}}\]
+Nielsen, Richard A. "Why Clerics Turn Deadly." Chapter 1 in _Deadly Clerics: Blocked Ambition and the Path to Jihad_. Cambridge University Press. ISBN: 9781108404051. \[Preview with [Google Books](https://books.google.com/books?id=6ARADwAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "Paths to Preaching Jihad." Chapter 3 in _Deadly Clerics: Blocked Ambition and the Path to Jihad_. Cambridge University Press. ISBN: 9781108404051.  \[Preview with {{% resource_link "0e136c13-7426-4bc0-9f5b-c39aa1f9bfef" "Google Books" %}}\]
+———. "Paths to Preaching Jihad." Chapter 3 in _Deadly Clerics: Blocked Ambition and the Path to Jihad_. Cambridge University Press. ISBN: 9781108404051.  \[Preview with [Google Books](https://books.google.com/books?id=6ARADwAAQBAJ&pg=PA51=onepage#v=onepage&q&f=false)\]
 
-Hegghammer, Thomas. "{{% resource_link "1b86643a-02fa-453a-8515-e799d7ad0241" "Should I Stay or Should I Go? Explaining Variation in Western Jihadists’ Choice between Domestic and Foreign Fighting" %}}." _American Political Science Review_ 107, no. 1 (2013): 1–15.
+Hegghammer, Thomas. "[Should I Stay or Should I Go? Explaining Variation in Western Jihadists’ Choice between Domestic and Foreign Fighting](https://www.cambridge.org/core/journals/american-political-science-review/article/should-i-stay-or-should-i-go-explaining-variation-in-western-jihadists-choice-between-domestic-and-foreign-fighting/6CD5FE49C158DB30EB9EE62E5BE0DBE2)." _American Political Science Review_ 107, no. 1 (2013): 1–15.
 
-Parkinson, Sarah Elizabeth. "{{% resource_link "b9aa1b8e-9538-408c-91dd-31b857ad9dc3" "Organizing Rebellion: Rethinking High-Risk Mobilization and Social Networks in War." %}}" _American Political Science Review_ 107, no. 3 (2013): 418–32.
+Parkinson, Sarah Elizabeth. "[Organizing Rebellion: Rethinking High-Risk Mobilization and Social Networks in War.](https://www.cambridge.org/core/journals/american-political-science-review/article/organizing-rebellion-rethinking-high-risk-mobilization-and-social-networks-in-war/585B17B7BAF8EA76E10758B2ECB78782)" _American Political Science Review_ 107, no. 3 (2013): 418–32.
 
-Krause, Peter. "{{% resource_link "7565b71e-450f-4960-a2b6-5a02a9dc3ab1" "The Structure of Success: How the Internal Distribution of Power Drives Armed Group Behavior and National Movement Effectiveness" %}}." _International Security_ 38, no. 3 (Winter 2013/14): 72–116.
+Krause, Peter. "[The Structure of Success: How the Internal Distribution of Power Drives Armed Group Behavior and National Movement Effectiveness](https://www.mitpressjournals.org/doi/abs/10.1162/ISEC_a_00148)." _International Security_ 38, no. 3 (Winter 2013/14): 72–116.
 
-Manekin, Devorah. "{{% resource_link "32580753-2ef8-443a-b9ff-cb864e8e5d37" "Violence Against Civilians in the Second Intifada: The Moderating Effect of Armed Group Structure on Opportunistic Violence" %}}." Comparative Political Studies 46, no. 10 (2013): 1273–1300.
+Manekin, Devorah. "[Violence Against Civilians in the Second Intifada: The Moderating Effect of Armed Group Structure on Opportunistic Violence](http://journals.sagepub.com/doi/abs/10.1177/0010414013489382)." Comparative Political Studies 46, no. 10 (2013): 1273–1300.
 
 _More resources:_
 
-Pearlman, Wendy. "The Organization Mediation Theory of Protest." Chapter 1 in _Violence, Nonviolence, and the Palestinian National Movement_. Cambridge University Press, 2014. ISBN: 9781107632493. \[Preview with {{% resource_link "0fb91a5f-7650-4296-b119-44039d6c10c9" "Google Books" %}}\]
+Pearlman, Wendy. "The Organization Mediation Theory of Protest." Chapter 1 in _Violence, Nonviolence, and the Palestinian National Movement_. Cambridge University Press, 2014. ISBN: 9781107632493. \[Preview with [Google Books](https://books.google.com/books?id=5Rn3CgDAymEC&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "Occupation and the First Intifada, 1967–1993." Chapter 4 in _Violence, Nonviolence, and the Palestinian National Movement_. Cambridge University Press, 2014. ISBN: 9781107632493. \[Preview with {{% resource_link "65288902-1a51-4eb3-abbb-3d3918506816" "Google Books" %}}\]
+———. "Occupation and the First Intifada, 1967–1993." Chapter 4 in _Violence, Nonviolence, and the Palestinian National Movement_. Cambridge University Press, 2014. ISBN: 9781107632493. \[Preview with [Google Books](https://books.google.com/books?id=5Rn3CgDAymEC&pg=PA94=onepage#v=onepage&q&f=false)\]
 
 ———. "The First Intifada, 2000." Chapter 6 in _Violence, Nonviolence, and the Palestinian National Movement._ Cambridge University Press, 2014. ISBN: 9781107632493. 
 
-Berrebi, Claude, and Esteban F. Klor. "{{% resource_link "2246d6a1-a95b-48cf-8bb0-d69856e4e2ea" "Are Voters Sensitive to Terrorism? Direct Evidence from the Israeli Electorate" %}}." _American Political Science Review_ 102, no. 3 (2008): 279–301.
+Berrebi, Claude, and Esteban F. Klor. "[Are Voters Sensitive to Terrorism? Direct Evidence from the Israeli Electorate](https://www.cambridge.org/core/journals/american-political-science-review/article/are-voters-sensitive-to-terrorism-direct-evidence-from-the-israeli-electorate/B1FE65A2EA22B126F63B48E25DBB09D2)." _American Political Science Review_ 102, no. 3 (2008): 279–301.
 
-Getmansky, Anna, and Thomas Zeitzoff. "{{% resource_link "22234fcb-93cb-416a-a185-79a6639ba0a0" "Terrorism and Voting: The Effect of Rocket Threat on Voting in Israeli Elections" %}}." _American Political Science Review_ 108, no. 3 (2014): 588–604.
+Getmansky, Anna, and Thomas Zeitzoff. "[Terrorism and Voting: The Effect of Rocket Threat on Voting in Israeli Elections](https://www.cambridge.org/core/journals/american-political-science-review/article/terrorism-and-voting-the-effect-of-rocket-threat-on-voting-in-israeli-elections/AC1229E7AAD3AC67D539EA997BFA7216)." _American Political Science Review_ 108, no. 3 (2014): 588–604.
 
-Menoret, Pascal. _Joyriding in Riyadh: Oil, Urbanism, and Road Revolt_. Cambridge University Press, 2014. ISBN: 9781107641952. \[Preview with {{% resource_link "7dc77117-17cb-4bc3-a022-94d1a8c95dde" "Google Books" %}}\]
+Menoret, Pascal. _Joyriding in Riyadh: Oil, Urbanism, and Road Revolt_. Cambridge University Press, 2014. ISBN: 9781107641952. \[Preview with [Google Books](https://books.google.com/books?id=XgJeAwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Hegghammer, Thomas. {{% resource_link "08e456ae-0768-45a6-b70b-68f5dd22ff4d" "\"The Rise of Muslim Foreign Fighters: Islam and the Globalization of Jihad.\" (PDF)" %}} _International Security_ 35, no. 3 (2011): 53–91.
+Hegghammer, Thomas. ["The Rise of Muslim Foreign Fighters: Islam and the Globalization of Jihad." (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/ISEC_a_00023) _International Security_ 35, no. 3 (2011): 53–91.
 
-———. _Jihad in Saudi Arabia: Violence and Pan-Islamism since 1979_. Cambridge University Press, 2010. ISBN: 9780521732369. \[Preview with {{% resource_link "d0b4d783-560a-4533-8b51-ece52f47acef" "Google Books" %}}\]
+———. _Jihad in Saudi Arabia: Violence and Pan-Islamism since 1979_. Cambridge University Press, 2010. ISBN: 9780521732369. \[Preview with [Google Books](https://books.google.com/books?id=bNLODP6w6GkC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Gerges, Fawaz A. _The Far Enemy: Why Jihad Went Global_. 2nd edition. Cambridge University Press, 2009. ISBN: 9780521737432. \[Preview with {{% resource_link "1919eb19-ce82-4192-86a7-5658c23726c0" "Google Books" %}}\]
+Gerges, Fawaz A. _The Far Enemy: Why Jihad Went Global_. 2nd edition. Cambridge University Press, 2009. ISBN: 9780521737432. \[Preview with [Google Books](https://books.google.com/books?id=TgYo05-2F7EC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 
 {{< tdclose >}}
@@ -114,29 +114,29 @@ Authoritarianism
 
 _Required readings:_
 
-Wedeen, Lisa. "Believing in Spectacles." Chapter 1 in _Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria._ University of Chicago Press, 2015. ISBN: 9780226333373. \[Preview with {{% resource_link "19c93fdb-d7dd-4b97-ac4c-838c9f2e77d4" "Google Books" %}}\]
+Wedeen, Lisa. "Believing in Spectacles." Chapter 1 in _Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria._ University of Chicago Press, 2015. ISBN: 9780226333373. \[Preview with [Google Books](https://books.google.com/books?id=Z9toCgAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "Killing Politics: Official Rhetoric and Permissable Speech." Chapter 2 in _Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria_. University of Chicago Press, 2015. ISBN: 9780226333373. \[Preview with {{% resource_link "1bfad56e-6e1f-4835-9f83-257c5e77b84c" "Google Books" %}}\]
+———. "Killing Politics: Official Rhetoric and Permissable Speech." Chapter 2 in _Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria_. University of Chicago Press, 2015. ISBN: 9780226333373. \[Preview with [Google Books](https://books.google.com/books?id=Z9toCgAAQBAJ&pg=PA32=onepage#v=onepage&q&f=false)\]
 
 ———. "Complicating Compliance." Chapter 5 in _Ambiguities of Domination: Politics, Rhetoric, and Symbols in Contemporary Syria_. University of Chicago Press, 2015. ISBN: 9780226333373. 
 
-———. "{{% resource_link "e0164740-a2d3-494f-a903-dcf7014d5e88" "Ideology and Humor in Dark Times: Notes from Syria" %}}." _Critical Inquiry_ 39, no. 4 (2013): 841–73.
+———. "[Ideology and Humor in Dark Times: Notes from Syria](http://www.jstor.org/stable/10.1086/671358?seq=1#page_scan_tab_contents)." _Critical Inquiry_ 39, no. 4 (2013): 841–73.
 
-Bush, Sarah Sunn, Aaron Erlich, Lauren Prather, et al. "{{% resource_link "08fe58cb-69a5-4f7a-85cc-40879ad9a2d9" "The Effects of Authoritarian Iconography: An Experimental Test" %}}." _Comparative Political Studies_ 49, no. 13 (2016): 1704–38.
+Bush, Sarah Sunn, Aaron Erlich, Lauren Prather, et al. "[The Effects of Authoritarian Iconography: An Experimental Test](http://journals.sagepub.com/doi/abs/10.1177/0010414016633228)." _Comparative Political Studies_ 49, no. 13 (2016): 1704–38.
 
-Jones, Calvert W. "{{% resource_link "a0e42ae9-dab5-4584-844a-685435b0b01d" "Seeing Like an Autocrat: Liberal Social Engineering in an Illiberal State" %}}." _Perspectives on Politics_ 13, no. 1 (2015): 24–41.
+Jones, Calvert W. "[Seeing Like an Autocrat: Liberal Social Engineering in an Illiberal State](https://www.cambridge.org/core/journals/perspectives-on-politics/article/seeing-like-an-autocrat-liberal-social-engineering-in-an-illiberal-state/D57624CEF5791FE8F6638F39D3263A4B#)." _Perspectives on Politics_ 13, no. 1 (2015): 24–41.
 
-Bellin, Eva. "{{% resource_link "49b1d5d6-e86c-4a3e-95f8-d82f018f2eca" "The Robustness of Authoritarianism in the Middle East: Exceptionalism in Comparative Perspective" %}}." _Comparative Politics_ 36, no. 2 (2004): 139–57.
+Bellin, Eva. "[The Robustness of Authoritarianism in the Middle East: Exceptionalism in Comparative Perspective](https://www.jstor.org/stable/4150140?seq=1#page_scan_tab_contents)." _Comparative Politics_ 36, no. 2 (2004): 139–57.
 
-———. "{{% resource_link "44d28054-bc75-44e5-84f4-715e97e71898" "Reconsidering the Robustness of Authoritarianism in the Middle East: Lessons from the Arab Spring" %}}." _Comparative Politics_ 44, no. 2 (2012): 127–49.
+———. "[Reconsidering the Robustness of Authoritarianism in the Middle East: Lessons from the Arab Spring](https://www.jstor.org/stable/23211807?seq=1#page_scan_tab_contents)." _Comparative Politics_ 44, no. 2 (2012): 127–49.
 
 _More resources:_
 
-Brownlee, Jason. _Authoritarianism in an Age of Democratization_. Cambridge University Press, 2007. ISBN: 9780521689663. \[Preview with {{% resource_link "933a208f-0d29-4df7-949e-e5c33890a170" "Google Books" %}}\]
+Brownlee, Jason. _Authoritarianism in an Age of Democratization_. Cambridge University Press, 2007. ISBN: 9780521689663. \[Preview with [Google Books](https://books.google.com/books?id=Trpol93amUQC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Owen, Roger. _The Rise and Fall of Arab Presidents for Life_. Harvard University Press, 2014. ISBN: 9780674735378. \[Preview with {{% resource_link "af9e4552-c918-4353-a42f-6bfadd5ccc59" "Google Books" %}}\]
+Owen, Roger. _The Rise and Fall of Arab Presidents for Life_. Harvard University Press, 2014. ISBN: 9780674735378. \[Preview with [Google Books](https://books.google.com/books?id=HXSvBAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Menaldo, Victor. "{{% resource_link "e0600ee8-16f3-4f69-a7a2-dea2f874ce83" "The Middle East and North Africa's Resilient Monarchs" %}}." _Journal of Politics_ 74, no. 3 (2012): 707–22.
+Menaldo, Victor. "[The Middle East and North Africa's Resilient Monarchs](https://www.journals.uchicago.edu/doi/full/10.1017/S0022381612000436)." _Journal of Politics_ 74, no. 3 (2012): 707–22.
 
 
 {{< tdclose >}}
@@ -154,17 +154,17 @@ Sectarianism
 
 _Required readings:_
 
-{{% resource_link "a5c8a893-c1b8-4526-85f9-de3721b2c376" "\"The Politics of Sectarianism.\" (PDF - 1MB)" %}} POMEPS Studies 4, November 13, 2013.
+["The Politics of Sectarianism." (PDF - 1MB)](https://pomeps.org/wp-content/uploads/2014/06/POMEPS_Studies4_Sectarianism.pdf) POMEPS Studies 4, November 13, 2013.
 
-Christia, Fotini, Elizabeth Dekeyser, and Dean Knox. "{{% resource_link "96076c9c-1210-4ddd-9f22-fa4aa0e92884" "To Karbala: Surveying Religious Shi’a from Iran and Iraq" %}}," MIT Political Science Department Research Paper No. 2016-39. December 15, 2016.
+Christia, Fotini, Elizabeth Dekeyser, and Dean Knox. "[To Karbala: Surveying Religious Shi’a from Iran and Iraq](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2885347)," MIT Political Science Department Research Paper No. 2016-39. December 15, 2016.
 
-Christia, Fotini, Dean Knox, and Jaffar Al-Rikabi. {{% resource_link "8fcaf741-ee66-461a-a49f-badcef46fe58" "\"Networks of Sectarianism: Experimental Evidence on Access to Services in Baghad.\" (PDF - 11MB)" %}} March 1, 2017.
+Christia, Fotini, Dean Knox, and Jaffar Al-Rikabi. ["Networks of Sectarianism: Experimental Evidence on Access to Services in Baghad." (PDF - 11MB)](https://columbiapeseminar.files.wordpress.com/2015/09/fotini.pdf) March 1, 2017.
 
-Cammett, Melani. "Welfare and Sectarianism in Plural Societies." Chapter 1 in _Compassionate Communalism: Welfare and Sectarianism in Lebanon_. Cornell University Press, 2014. ISBN: 9780801478932. \[Preview with {{% resource_link "dd70b7ae-faff-413f-ba6e-a4309f96ea0a" "Google Books" %}}\]
+Cammett, Melani. "Welfare and Sectarianism in Plural Societies." Chapter 1 in _Compassionate Communalism: Welfare and Sectarianism in Lebanon_. Cornell University Press, 2014. ISBN: 9780801478932. \[Preview with [Google Books](https://books.google.com/books?id=Nb1fAwAAQBAJ&pg=PA7=onepage#v=onepage&q&f=false)\]
 
-———. "The Political Geography of Welfare and Sectarianism." Chapter 4 in _Compassionate Communalism: Welfare and Sectarianism in Lebanon_. Cornell University Press, 2014. ISBN: 9780801478932. \[Preview with {{% resource_link "4a1ede6e-d1a5-4953-9d60-03a3a1e0264b" "Google Books" %}}\]
+———. "The Political Geography of Welfare and Sectarianism." Chapter 4 in _Compassionate Communalism: Welfare and Sectarianism in Lebanon_. Cornell University Press, 2014. ISBN: 9780801478932. \[Preview with [Google Books](https://books.google.com/books?id=Nb1fAwAAQBAJ&pg=PA85=onepage#v=onepage&q&f=false)\]
 
-Siegel, Alexandra. "{{% resource_link "a15899f6-6bf3-48fb-8b3e-4a4d26c8d45e" "Viral Pulpits: Clerics and the Sectarianization of the Gulf Online Sphere" %}}." Project on Middle East Political Science.
+Siegel, Alexandra. "[Viral Pulpits: Clerics and the Sectarianization of the Gulf Online Sphere](https://pomeps.org/viral-pulpits-clerics-and-the-sectarianization-of-the-gulf-online-sphere)." Project on Middle East Political Science.
 
 
 {{< tdclose >}}
@@ -182,37 +182,37 @@ Gender
 
 _Required readings:_
 
-Patel, David S. "{{% resource_link "0abd530e-f73a-4535-811f-569571a6826e" "Concealing to Reveal: The Informational Role of Islamic Dress" %}}." _Rationality and Society_ 24, no. 3 (2012): 295–323.
+Patel, David S. "[Concealing to Reveal: The Informational Role of Islamic Dress](http://journals.sagepub.com/doi/abs/10.1177/1043463112440683)." _Rationality and Society_ 24, no. 3 (2012): 295–323.
 
-Ben Shitrit, Lihi. "Introduction: Frames of Exception and Righteous Transgressions." Chapter 1 in _Righteous Transgressions: Women’s Activism on the Israeli and Palestinian Religious Right_. Princeton University Press, 2015. ISBN: 9780691164571. \[Preview with {{% resource_link "f141ae8e-0feb-41b0-b322-422956fd4845" "Google Books" %}}\]
+Ben Shitrit, Lihi. "Introduction: Frames of Exception and Righteous Transgressions." Chapter 1 in _Righteous Transgressions: Women’s Activism on the Israeli and Palestinian Religious Right_. Princeton University Press, 2015. ISBN: 9780691164571. \[Preview with [Google Books](https://books.google.com/books?id=zUjuCQAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "Women's Protests: Exceptional Times and Exceptional Methods." Chapter 4 in in _Righteous Transgressions: Women’s Activism on the Israeli and Palestinian Religious Right_. Princeton University Press, 2015. ISBN: 9780691164571. \[Preview with {{% resource_link "57cc7906-fe17-4b71-9013-129d19bece8d" "Google Books" %}}\]
+———. "Women's Protests: Exceptional Times and Exceptional Methods." Chapter 4 in in _Righteous Transgressions: Women’s Activism on the Israeli and Palestinian Religious Right_. Princeton University Press, 2015. ISBN: 9780691164571. \[Preview with [Google Books](https://books.google.com/books?id=zUjuCQAAQBAJ&pg=PA128=onepage#v=onepage&q&f=false)\]
 
-Nielsen, Richard A. {{% resource_link "2d7525ca-27ca-47a5-ac3e-5305c82d67b4" "\"Women's Authority in Patriarchal Social Movements: The Case of Female Salafi Preachers.\" (PDF)" %}} January 9, 2018.
+Nielsen, Richard A. ["Women's Authority in Patriarchal Social Movements: The Case of Female Salafi Preachers." (PDF)](http://www.mit.edu/~rnielsen/daeyat.pdf) January 9, 2018.
 
-Blaydes, Lisa, and Drew A. Linzer. "{{% resource_link "d9abcc19-7f2e-4798-8501-c1e6447fe38d" "The Political Economy of Women’s Support for Fundamentalist Islam" %}}." _World Politics_ 60, no. 4 (2008): 576–609.
+Blaydes, Lisa, and Drew A. Linzer. "[The Political Economy of Women’s Support for Fundamentalist Islam](https://www.cambridge.org/core/journals/world-politics/article/political-economy-of-womens-support-for-fundamentalist-islam/16220E22D015E0C93F776DB0B341EDEB)." _World Politics_ 60, no. 4 (2008): 576–609.
 
-Bush, Sarah Sunn, and Eleanor Gao. "{{% resource_link "4385635c-3fd2-48f5-abc7-79760672462d" "Small Tribes, Big Gains: The Strategic Uses of Gender Quotas in the Middle East" %}}." _Comparative Politics_ 49, no. 2 (2017): 149–67.
+Bush, Sarah Sunn, and Eleanor Gao. "[Small Tribes, Big Gains: The Strategic Uses of Gender Quotas in the Middle East](https://www.researchgate.net/publication/312300333_Small_Tribes_Big_Gains_The_Strategic_Uses_of_Gender_Quotas_in_the_Middle_East)." _Comparative Politics_ 49, no. 2 (2017): 149–67.
 
-{{% resource_link "00ab3ceb-2c73-4129-8f05-2db7b34d0a0a" "\"Women and Gender in Middle East Politics.\" (PDF - 1.3MB)" %}} POMEPS Studies 19, May 10, 2016.
+["Women and Gender in Middle East Politics." (PDF - 1.3MB)](https://pomeps.org/wp-content/uploads/2016/05/POMEPS_Studies_19_Gender_Web.pdf) POMEPS Studies 19, May 10, 2016.
 
 _More resources:_
 
-Masoud, Tarek, Amaney Jamal, and Elizabeth Nugent. "{{% resource_link "6159cbb9-9f65-4335-8887-1369d74e296a" "Using the Qur’ān to Empower Arab Women? Theory and Experimental Evidence From Egypt" %}}." _Comparative Political Studies_ 49, no. 12 (2016): 1555–98.
+Masoud, Tarek, Amaney Jamal, and Elizabeth Nugent. "[Using the Qur’ān to Empower Arab Women? Theory and Experimental Evidence From Egypt](http://journals.sagepub.com/doi/abs/10.1177/0010414015626452)." _Comparative Political Studies_ 49, no. 12 (2016): 1555–98.
 
-Iyigun, Murat. "{{% resource_link "9ad104b7-cb17-492e-a88a-8fa48c54af20" "Lessons from the Ottoman Harem on Culture, Religion, and Wars" %}}." _Economic Development and Cultural Change_ 61, no. 4 (2013): 693–730.
+Iyigun, Murat. "[Lessons from the Ottoman Harem on Culture, Religion, and Wars](https://www.journals.uchicago.edu/doi/abs/10.1086/670376)." _Economic Development and Cultural Change_ 61, no. 4 (2013): 693–730.
 
-Blaydes, Lisa. "{{% resource_link "9758954f-6b02-4e2f-a7f4-ca152b71214e" "How Does Islamic Local Governance Affect the Lives of Women?" %}}" _Governance_ 27, no. 3 (2014): 489–509.
+Blaydes, Lisa. "[How Does Islamic Local Governance Affect the Lives of Women?](https://onlinelibrary.wiley.com/doi/10.1111/gove.12054)" _Governance_ 27, no. 3 (2014): 489–509.
 
-Blaydes, Lisa, and Rachel Gillum. "{{% resource_link "f9fabd4e-5228-41c4-b8f7-414bffd5b837" "Religiosity-of-Interviewer Effects: Assessing the Impact of Veiled Enumerators on Survey Response in Egypt" %}}." _Politics and Religion_ 6, no. 3 (2013): 459–82.
+Blaydes, Lisa, and Rachel Gillum. "[Religiosity-of-Interviewer Effects: Assessing the Impact of Veiled Enumerators on Survey Response in Egypt](https://www.cambridge.org/core/journals/politics-and-religion/article/religiosity-of-interviewer-effects-assessing-the-impact-of-veiled-enumerators-on-survey-response-in-egypt/64956CC11FF9EB0EE86D3A701574314C)." _Politics and Religion_ 6, no. 3 (2013): 459–82.
 
 Ahmed, Leila. "The 1980s: Exploring Women's Motivations." Chapter 5 in _A Quiet Revolution: The Veil's Resurgence, from the Middle East to America_. Yale University Press, 2011. ISBN: 9780300181432. 
 
-Ross, Michael L. "{{% resource_link "7d0faf12-fce8-44c1-ba03-9a80f10e435f" "Oil, Islam, and Women" %}}." _American Political Science Review_ 102, no. 1: (2008): 107–23.
+Ross, Michael L. "[Oil, Islam, and Women](https://www.jstor.org/stable/27644501?seq=1#page_scan_tab_contents)." _American Political Science Review_ 102, no. 1: (2008): 107–23.
 
-Cherif, Feryal M. "{{% resource_link "9f85b46f-c6d4-4eee-8a6b-303e319a0e57" "Culture, Rights, and Norms: Women’s Rights Reform in Muslim Countries" %}}." _Journal of Politics_ 72, no. 4 (2010): 1144–60.
+Cherif, Feryal M. "[Culture, Rights, and Norms: Women’s Rights Reform in Muslim Countries](https://www.journals.uchicago.edu/doi/abs/10.1017/S0022381610000587)." _Journal of Politics_ 72, no. 4 (2010): 1144–60.
 
-Al-Rasheed, Madawi. _A Most Masculine State: Gender, Politics, and Religion in Saudi Arabia_. Cambridge University Press, 2013. ISBN: 9780521122528. \[Preview with {{% resource_link "a5595797-2bb6-49c6-9098-c9bbf5f2fdff" "Google Books" %}}\]
+Al-Rasheed, Madawi. _A Most Masculine State: Gender, Politics, and Religion in Saudi Arabia_. Cambridge University Press, 2013. ISBN: 9780521122528. \[Preview with [Google Books](https://books.google.com/books?id=JmafWmVNJAAC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 
 {{< tdclose >}}
@@ -230,33 +230,33 @@ Islamism
 
 _Required readings:_
 
-Schwedler, Jillian. "{{% resource_link "26b1d7f9-a1e4-4750-9575-e1e87e0c3bb5" "Can Islamists Become Moderates? Rethinking the Inclusion-Moderation Hypothesis" %}}." _World Politics_ 63, no. 2 (2011): 347–76.
+Schwedler, Jillian. "[Can Islamists Become Moderates? Rethinking the Inclusion-Moderation Hypothesis](https://www.cambridge.org/core/journals/world-politics/article/can-islamists-become-moderates-rethinking-the-inclusion-moderation-hypothesis/2686A4410D879ED664ABEE7D593CDA1D)." _World Politics_ 63, no. 2 (2011): 347–76.
 
-Wickham, Carrie Rosefsky. "Conceptualizing Islamist Movement Change." Chapter 1 in _The Muslim Brotherhood: Evolution of an Islamist Movement_. Princeton University Press, 2013. ISBN: 9780691163642. \[Preview with {{% resource_link "4fb3ae24-ad6e-4f50-b9f4-9a46bfc90b44" "Google Books" %}}\]
+Wickham, Carrie Rosefsky. "Conceptualizing Islamist Movement Change." Chapter 1 in _The Muslim Brotherhood: Evolution of an Islamist Movement_. Princeton University Press, 2013. ISBN: 9780691163642. \[Preview with [Google Books](https://books.google.com/books?id=JaQpBQAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "The Brotherhood's Foray into Electoral Politics." Chapter 3 in _The Muslim Brotherhood: Evolution of an Islamist Movement_. Princeton University Press, 2013. ISBN: 9780691163642. \[Preview with {{% resource_link "0deea54e-727e-4482-864e-3a640d0940d5" "Google Books" %}}\]
+———. "The Brotherhood's Foray into Electoral Politics." Chapter 3 in _The Muslim Brotherhood: Evolution of an Islamist Movement_. Princeton University Press, 2013. ISBN: 9780691163642. \[Preview with [Google Books](https://books.google.com/books?id=JaQpBQAAQBAJ&pg=PA46=onepage#v=onepage&q&f=false)\]
 
-El-Ghobashy, Mona. "{{% resource_link "833383bb-db21-44e4-9b00-7ca70883def1" "The Metamorphosis of the Egyptian Muslim Brothers" %}}." _International Journal of Middle East Studies_ 37, no. 3 (2005): 373–95.
+El-Ghobashy, Mona. "[The Metamorphosis of the Egyptian Muslim Brothers](https://www.jstor.org/stable/3880106?seq=1#page_scan_tab_contents)." _International Journal of Middle East Studies_ 37, no. 3 (2005): 373–95.
 
-Meyersson, Erik. {{% resource_link "1785704a-e36e-4792-a108-9766a058253b" "\"Islamic Rule and the Empowerment of the Poor and Pious.\" (PDF)" %}} _Econometrica_ 82, no. 1 (2014): 229–69.
+Meyersson, Erik. ["Islamic Rule and the Empowerment of the Poor and Pious." (PDF)](https://www.hhs.se/contentassets/a1f4542a532442f1abd9fae963fb69d9/2013-islamic-rule-and-the-empowerment-of-the-poor-and-pious.pdf) _Econometrica_ 82, no. 1 (2014): 229–69.
 
-{{% resource_link "98f4350d-2232-4ffe-a396-d57fcc16dc62" "\"Evolving Methodologies in the Study of Islamism.\" (PDF - 1MB)" %}} POMEPS Studies 17, March 7, 2016.
+["Evolving Methodologies in the Study of Islamism." (PDF - 1MB)](https://pomeps.org/wp-content/uploads/2016/03/POMEPS_Studies_17_Methods_Web.pdf) POMEPS Studies 17, March 7, 2016.
 
 _More resources:_
 
-{{% resource_link "7a986f27-e9b9-448b-b41d-b9f4adeab96e" "\"Islamist Social Services.\" (PDF - 3MB)" %}} POMEPS Studies 9, October 15, 2014.
+["Islamist Social Services." (PDF - 3MB)](https://pomeps.org/wp-content/uploads/2014/10/POMEPS_Studies_9_SocialServices_web.pdf) POMEPS Studies 9, October 15, 2014.
 
-Wickham, Carrie Rosefsky. _Mobilizing Islam: Religion, Activism, and Political Change in Egypt_. Columbia University Press, 2002. ISBN: 9780231125734. \[Preview with {{% resource_link "8afb78ee-010b-4325-b729-b0a6815eccf3" "Google Books" %}}\]
+Wickham, Carrie Rosefsky. _Mobilizing Islam: Religion, Activism, and Political Change in Egypt_. Columbia University Press, 2002. ISBN: 9780231125734. \[Preview with [Google Books](https://books.google.com/books?id=n2U0WGHUBPIC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Cammett, Melani, and Pauline Jones Luong. "{{% resource_link "26ead8d9-68d9-48d4-8aab-012a60e16189" "Is There an Islamist Political Advantage?" %}}" _Annual Review of Political Science_ 17 (2014): 187–206.
+Cammett, Melani, and Pauline Jones Luong. "[Is There an Islamist Political Advantage?](https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-071112-221207)" _Annual Review of Political Science_ 17 (2014): 187–206.
 
-Schwedler, Jillian. _Faith in Moderation: Islamist Parties in Jordan and Yemen_. Cambridge University Press, 2007. ISBN: 9780521040006. \[Preview with {{% resource_link "849ecf97-7ab9-4eed-bd53-22b9e981c5a8" "Google Books" %}}\]
+Schwedler, Jillian. _Faith in Moderation: Islamist Parties in Jordan and Yemen_. Cambridge University Press, 2007. ISBN: 9780521040006. \[Preview with [Google Books](https://books.google.com/books?id=DVwHXnOSeNUC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Brown, Nathan J. _When Victory Is Not an Option: Islamist Movements in Arab Politics_. Cornell University Press, 2012. ISBN: 9780801477720. \[Preview with {{% resource_link "e06c524e-74a4-42cc-9efa-517ed7fb0330" "Google Books" %}}\]
+Brown, Nathan J. _When Victory Is Not an Option: Islamist Movements in Arab Politics_. Cornell University Press, 2012. ISBN: 9780801477720. \[Preview with [Google Books](https://books.google.com/books?id=hmLdKD3gCkkC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Lacroix, Stéphane. _Awakening Islam: The Politics of Religious Dissent in Contemporary Saudi Arabia_. Harvard University Press, 2011. ISBN: 9780674049642. \[Preview with {{% resource_link "08e7e99f-b7a3-497e-9c9c-9a2f9bdc553a" "Google Books" %}}\]
+Lacroix, Stéphane. _Awakening Islam: The Politics of Religious Dissent in Contemporary Saudi Arabia_. Harvard University Press, 2011. ISBN: 9780674049642. \[Preview with [Google Books](https://books.google.com/books?id=bhnNqkbaGs8C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Al-Rasheed, Madawi. _Contesting the Saudi State: Islamic Voices from a New Generation_. Cambridge University Press, 2006. ISBN: 9780521858366. \[Preview with {{% resource_link "6df266bc-1bc1-44fe-9789-0d81ec3a1caf" "Google Books" %}}\]
+Al-Rasheed, Madawi. _Contesting the Saudi State: Islamic Voices from a New Generation_. Cambridge University Press, 2006. ISBN: 9780521858366. \[Preview with [Google Books](https://books.google.com/books?id=tqmcWcjXMe0C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 
 {{< tdclose >}}
@@ -274,17 +274,17 @@ Historical Approaches to Developments
 
 _Required readings:_
 
-Kuran, Timur. "{{% resource_link "1c7480ff-2e23-48b9-8150-6049b71f905b" "Why the Middle East Is Economically Underdeveloped: Historical Mechanisms of Institutional Stagnation" %}}." _Journal of Economic Perspectives_ 18, no. 3 (2004): 71–90.
+Kuran, Timur. "[Why the Middle East Is Economically Underdeveloped: Historical Mechanisms of Institutional Stagnation](https://www.jstor.org/stable/3216807?seq=1#page_scan_tab_contents)." _Journal of Economic Perspectives_ 18, no. 3 (2004): 71–90.
 
-Blaydes, Lisa, and Eric Chaney. "{{% resource_link "7dd6d233-32bd-4347-904c-099608712b1a" "The Feudal Revolution and Europe’s Rise: Political Divergence of the Christian West and the Muslim World before 1500 CE" %}}." _American Political Science Review_ 107, no. 1 (2013): 16–34.
+Blaydes, Lisa, and Eric Chaney. "[The Feudal Revolution and Europe’s Rise: Political Divergence of the Christian West and the Muslim World before 1500 CE](https://www.cambridge.org/core/journals/american-political-science-review/article/feudal-revolution-and-europes-rise-political-divergence-of-the-christian-west-and-the-muslim-world-before-1500-ce/EEF59BAF19A7D08BC254DBB35CBFB026)." _American Political Science Review_ 107, no. 1 (2013): 16–34.
 
-Chaney, Eric. "{{% resource_link "8fe738fd-8fc1-4fd7-babd-05caf31a4d4d" "Tolerance, Religious Competition and the Rise and Fall of Muslim Science" %}}." November 20, 2008.
+Chaney, Eric. "[Tolerance, Religious Competition and the Rise and Fall of Muslim Science](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.153.3085)." November 20, 2008.
 
-Iyigun, Murat. "{{% resource_link "1d521b82-3788-493b-9356-33b47314fabc" "Luther and Suleyman" %}}." _Quarterly Journal of Economics_ 123, no. 4 (2008): 1465–94.
+Iyigun, Murat. "[Luther and Suleyman](https://academic.oup.com/qje/article/123/4/1465/1933179)." _Quarterly Journal of Economics_ 123, no. 4 (2008): 1465–94.
 
-Rubin, Jared. "Introduction." Chapter 1 in _Rulers, Religion, and Riches: Why the West Got Rich and the Middle East Did Not_. Cambridge University Press, 2017. ISBN: 9781108400053. \[Preview with {{% resource_link "72f96220-43f7-4df9-ba86-4c0f78854cc2" "Google Books" %}}\]
+Rubin, Jared. "Introduction." Chapter 1 in _Rulers, Religion, and Riches: Why the West Got Rich and the Middle East Did Not_. Cambridge University Press, 2017. ISBN: 9781108400053. \[Preview with [Google Books](https://books.google.com/books?id=RhDqDQAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "The Propogation of Rule." Chapter 2 in _Rulers, Religion, and Riches: Why the West Got Rich and the Middle East Did Not_. Cambridge University Press, 2017. ISBN: 9781108400053.  \[Preview with {{% resource_link "68947284-187b-4732-bd29-2003f351606b" "Google Books" %}}\]
+———. "The Propogation of Rule." Chapter 2 in _Rulers, Religion, and Riches: Why the West Got Rich and the Middle East Did Not_. Cambridge University Press, 2017. ISBN: 9781108400053.  \[Preview with [Google Books](https://books.google.com/books?id=RhDqDQAAQBAJ&pg=PA27=onepage#v=onepage&q&f=false)\]
 
 _Optional:_
 
@@ -306,17 +306,17 @@ Arab Spring
 
 _Required readings:_
 
-Gause, Gregory F., III. "{{% resource_link "d33d9622-aed3-4da4-9aaf-14663d806436" "Why Middle East Studies Missed the Arab Spring: The Myth of Authoritarian Stability" %}}." _Foreign Affairs_ 90, no. 4 (2011): 81–90. 
+Gause, Gregory F., III. "[Why Middle East Studies Missed the Arab Spring: The Myth of Authoritarian Stability](https://www.jstor.org/stable/23039608?seq=1#page_scan_tab_contents)." _Foreign Affairs_ 90, no. 4 (2011): 81–90. 
 
-Kuran, Timur. "{{% resource_link "36a61525-b2da-48a8-af8a-1140a0344bd1" "Sparks and Prairie Fires: A Theory of Unanticipated Political Revolution" %}}." _Public Choice_ 61, no. 1 (1989): 41–74.
+Kuran, Timur. "[Sparks and Prairie Fires: A Theory of Unanticipated Political Revolution](https://link.springer.com/article/10.1007/BF00116762)." _Public Choice_ 61, no. 1 (1989): 41–74.
 
-Pearlman, Wendy. "{{% resource_link "78dbbb20-b531-47ff-9101-cd1ddd407601" "Emotions and the Microfoundations of the Arab Uprisings" %}}." _Perspectives on Politics_ 11, no. 2 (2013): 387–409.
+Pearlman, Wendy. "[Emotions and the Microfoundations of the Arab Uprisings](https://www.cambridge.org/core/journals/perspectives-on-politics/article/div-classtitleemotions-and-the-microfoundations-of-the-arab-uprisingsdiv/E76E2035D68531BD8C241A1139FD9A75)." _Perspectives on Politics_ 11, no. 2 (2013): 387–409.
 
-Hassanpour, Navid. "{{% resource_link "96c24fcc-9c8a-4756-9c55-f4f793ed8e40" "Media Disruption and Revolutionary Unrest: Evidence from Mubarak’s Quasi-Experiment" %}}." _Political Communication_ 31, no. 1 (2014): 1–24.
+Hassanpour, Navid. "[Media Disruption and Revolutionary Unrest: Evidence from Mubarak’s Quasi-Experiment](https://www.tandfonline.com/doi/abs/10.1080/10584609.2012.737439)." _Political Communication_ 31, no. 1 (2014): 1–24.
 
-Steinert-Threlkeld, Zachary C., Delia Mocanu, Alessandro Vespignani, et al. "{{% resource_link "7ed8dbab-16d4-499e-ba35-4b61f982ae18" "Online Social Networks and Offline Protest" %}}." _EPJ Data Science_ (2015) 4:19.
+Steinert-Threlkeld, Zachary C., Delia Mocanu, Alessandro Vespignani, et al. "[Online Social Networks and Offline Protest](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-015-0056-y)." _EPJ Data Science_ (2015) 4:19.
 
-{{% resource_link "9bf99a31-94ed-4e15-9da7-20f1011671e7" "\"Reflections Five Years After the Uprisings.\" (PDF - 2.5MB)" %}} POMEPS Studies 18, March 28, 2016.
+["Reflections Five Years After the Uprisings." (PDF - 2.5MB)](https://pomeps.org/wp-content/uploads/2016/03/POMEPS_Studies_18_Reflections_Web.pdf) POMEPS Studies 18, March 28, 2016.
 
 
 {{< tdclose >}}
@@ -334,15 +334,15 @@ Religion
 
 _Required readings:_
 
-Hassner, Ron E. "{{% resource_link "f6596b0e-7019-4d8d-8fb9-97d51c24b173" "Blasphemy and Violence" %}}." _International Studies Quarterly_ 55, no. 1 (2011): 23–45.
+Hassner, Ron E. "[Blasphemy and Violence](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2478.2010.00634.x)." _International Studies Quarterly_ 55, no. 1 (2011): 23–45.
 
-Chaney, Eric. {{% resource_link "c72bd6f3-2fd6-444c-b2a0-143c3ca130b2" "\"Revolt on the Nile: Economic Shocks, Religion, and Political Power.\" (PDF)" %}} _Econometrica_ 81, no. 5 (2013): 2033–53.
+Chaney, Eric. ["Revolt on the Nile: Economic Shocks, Religion, and Political Power." (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10233) _Econometrica_ 81, no. 5 (2013): 2033–53.
 
-Taylor, Julie. "{{% resource_link "47048508-4e4a-4a79-8f61-049d3379777b" "Prophet Sharing: Strategic Interaction between Muslim Clerics and Middle Eastern Regimes" %}}." _Journal of Islamic Law and Culture_ 10, no. 1 (2008): 41–62.
+Taylor, Julie. "[Prophet Sharing: Strategic Interaction between Muslim Clerics and Middle Eastern Regimes](https://www.tandfonline.com/doi/abs/10.1080/15288170701878227)." _Journal of Islamic Law and Culture_ 10, no. 1 (2008): 41–62.
 
-Campante, Filipe, and David Yanagizawa-Drott. "{{% resource_link "a2e04222-9351-4c70-ace9-e91a89128a40" "Does Religion Affect Economic Growth and Happiness? Evidence from Ramadan" %}}." _Quarterly Journal of Economics_ 130, no. 2 (2015): 615–58.
+Campante, Filipe, and David Yanagizawa-Drott. "[Does Religion Affect Economic Growth and Happiness? Evidence from Ramadan](https://academic.oup.com/qje/article/130/2/615/2330341)." _Quarterly Journal of Economics_ 130, no. 2 (2015): 615–58.
 
-Clingingsmith, David, Asim Ijaz Khwaja, and Michael Kremer. "{{% resource_link "0e111788-fd0c-415d-9f5a-1f7a29f5739c" "Estimating the Impact of The Hajj: Religion and Tolerance in Islam's Global Gathering" %}}." _Quarterly Journal of Economics_ 124, no. 3 (2009): 1133–70.
+Clingingsmith, David, Asim Ijaz Khwaja, and Michael Kremer. "[Estimating the Impact of The Hajj: Religion and Tolerance in Islam's Global Gathering](https://academic.oup.com/qje/article/124/3/1133/1905120)." _Quarterly Journal of Economics_ 124, no. 3 (2009): 1133–70.
 
 
 {{< tdclose >}}
@@ -360,21 +360,21 @@ Elections
 
 _Required readings:_
 
-Blaydes, Lisa. "Introduction." Chapter 1 in _Elections and Distributive Politics in Mubarak's Egypt_. Cambridge University Press, 2013. ISBN: 9781107617018. \[Preview with {{% resource_link "f2f7b971-9406-4edf-b503-c0a94058a00b" "Google Books" %}}\]
+Blaydes, Lisa. "Introduction." Chapter 1 in _Elections and Distributive Politics in Mubarak's Egypt_. Cambridge University Press, 2013. ISBN: 9781107617018. \[Preview with [Google Books](https://books.google.com/books?id=oQh2XlLH7FgC&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "Elections and Elite Management." Chapter 3 in _Elections and Distributive Politics in Mubarak's Egypt_. Cambridge University Press, 2013. ISBN: 9781107617018. \[Preview with {{% resource_link "f5af1361-375f-42b3-8c31-22fe55b2af93" "Google Books" %}}\]
+———. "Elections and Elite Management." Chapter 3 in _Elections and Distributive Politics in Mubarak's Egypt_. Cambridge University Press, 2013. ISBN: 9781107617018. \[Preview with [Google Books](https://books.google.com/books?id=oQh2XlLH7FgC&pg=PA48=onepage#v=onepage&q&f=false)\]
 
 ———. "The Politics of Infrastructure Provision." Chapter 4 in _Elections and Distributive Politics in Mubarak's Egypt_. Cambridge University Press, 2013. ISBN: 9781107617018. 
 
-Masoud, Tarek. "Explaining Islamist Dominion." Chapter 1 in _Counting Islam: Religion, Class, and Elections in Egypt_. Cambridge University Press, 2014. ISBN: 9780521279116. \[Preview with {{% resource_link "c982c6cd-9773-4c41-be86-aa06d7d91831" "Google Books" %}}\]
+Masoud, Tarek. "Explaining Islamist Dominion." Chapter 1 in _Counting Islam: Religion, Class, and Elections in Egypt_. Cambridge University Press, 2014. ISBN: 9780521279116. \[Preview with [Google Books](https://books.google.com/books?id=W2VzAwAAQBAJ&pg=PA14=onepage#v=onepage&q&f=false)\]
 
-———. "The Islamic Machine?" Chapter 3 in _Counting Islam: Religion, Class, and Elections in Egypt_. Cambridge University Press, 2014. ISBN: 9780521279116. \[Preview with {{% resource_link "f32a36c8-9377-4593-8937-83f7ad8632ea" "Google Books" %}}\]
+———. "The Islamic Machine?" Chapter 3 in _Counting Islam: Religion, Class, and Elections in Egypt_. Cambridge University Press, 2014. ISBN: 9780521279116. \[Preview with [Google Books](https://books.google.com/books?id=W2VzAwAAQBAJ&pg=PA74=onepage#v=onepage&q&f=false)\]
 
 ———."Winning in the 'Well-Run Casino'." Chapter 4 in _Counting Islam: Religion, Class, and Elections in Egypt._ Cambridge University Press, 2014. ISBN: 9780521279116.
 
-Corstange, Daniel. "Introduction." Chapter 1 in _The Price of a Vote in the Middle East: Clientelism and Communal Politics in Lebanon and Yemen_. Cambridge University Press, 2017. ISBN: 9781107514409. \[Preview with {{% resource_link "498ba5ad-081e-4906-891d-f616e02fbddf" "Google Books" %}}\]
+Corstange, Daniel. "Introduction." Chapter 1 in _The Price of a Vote in the Middle East: Clientelism and Communal Politics in Lebanon and Yemen_. Cambridge University Press, 2017. ISBN: 9781107514409. \[Preview with [Google Books](https://books.google.com/books?id=qbWnDQAAQBAJ&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "Perverse Competition and Personalized Patronage." Chapter 8 in _The Price of a Vote in the Middle East: Clientelism and Communal Politics in Lebanon and Yemen_. Cambridge University Press, 2017. ISBN: 9781107514409. \[Preview with {{% resource_link "d89ec3ef-9a4b-4539-936b-7c5f3f551654" "Google Books" %}}\] 
+———. "Perverse Competition and Personalized Patronage." Chapter 8 in _The Price of a Vote in the Middle East: Clientelism and Communal Politics in Lebanon and Yemen_. Cambridge University Press, 2017. ISBN: 9781107514409. \[Preview with [Google Books](https://books.google.com/books?id=qbWnDQAAQBAJ&pg=PA194=onepage#v=onepage&q&f=false)\] 
 
 
 {{< tdclose >}}
@@ -392,19 +392,19 @@ Anti-Americanism and Views of the West
 
 _Required readings:_
 
-Jamal, Amaney A. "Introduction: Pro-American Democracy or No Democracy At All?" Chapter 1 in _Of Empires and Citizens: Pro-American Democracy or No Democracy At All?_ Princeton University Press, 2012. ISBN: 9780691149653. \[Preview with {{% resource_link "b928958a-0b46-4842-9f5a-4b51351ec09e" "Google Books" %}}\]
+Jamal, Amaney A. "Introduction: Pro-American Democracy or No Democracy At All?" Chapter 1 in _Of Empires and Citizens: Pro-American Democracy or No Democracy At All?_ Princeton University Press, 2012. ISBN: 9780691149653. \[Preview with [Google Books](https://books.google.com/books?id=tkR2H7ugFqIC&pg=PA1=onepage#v=onepage&q&f=false)\]
 
-———. "Engaging the Regime through the Lens of the United States: Citizens' Political Preferences." Chapter 4 in _Of Empires and Citizens: Pro-American Democracy or No Democracy At All?_ Princeton University Press, 2012. ISBN: 9780691149653. \[Preview with {{% resource_link "f9d022d0-cc18-4f69-a6c6-261e3c8989b4" "Google Books" %}}\]
+———. "Engaging the Regime through the Lens of the United States: Citizens' Political Preferences." Chapter 4 in _Of Empires and Citizens: Pro-American Democracy or No Democracy At All?_ Princeton University Press, 2012. ISBN: 9780691149653. \[Preview with [Google Books](https://books.google.com/books?id=tkR2H7ugFqIC&pg=PA103=onepage#v=onepage&q&f=false)\]
 
-———. "Support for Democracy and Authoritarianism: The Geosrategic Utility of Cooperative Leadership." Chapter 5 in _Of Empires and Citizens: Pro-American Democracy or No Democracy At All?_ Princeton University Press, 2012. ISBN: 9780691149653. \[Preview with {{% resource_link "bdb4e38c-4f39-4285-8a8b-a0e82706a7b6" "Google Books" %}}\] 
+———. "Support for Democracy and Authoritarianism: The Geosrategic Utility of Cooperative Leadership." Chapter 5 in _Of Empires and Citizens: Pro-American Democracy or No Democracy At All?_ Princeton University Press, 2012. ISBN: 9780691149653. \[Preview with [Google Books](https://books.google.com/books?id=tkR2H7ugFqIC&pg=PA142=onepage#v=onepage&q&f=false)\] 
 
-Blaydes, Lisa, and Drew A. Linzer. "{{% resource_link "e97997ac-8c67-4899-88d4-77399c145ae0" "Elite Competition, Religiosity, and Anti-Americanism in the Islamic World" %}}." _American Political Science Review_ 106, no. 2 (2012): 225–43.
+Blaydes, Lisa, and Drew A. Linzer. "[Elite Competition, Religiosity, and Anti-Americanism in the Islamic World](https://www.cambridge.org/core/journals/american-political-science-review/article/elite-competition-religiosity-and-anti-americanism-in-the-islamic-world/B51B3B740F267EC28E3218CE3ECD1972)." _American Political Science Review_ 106, no. 2 (2012): 225–43.
 
-Jamal, Amaney A., Robert O. Keohane, David Romney, et al. {{% resource_link "da58ec3f-e9bf-46b5-9b1e-d356270c3b30" "\"Anti-Americanism or Anti-Interventionism in Arabic Twitter Discourses.\" (PDF)" %}} _Perspectives on Politics_ 13, no. 1 (2015): 55–73.
+Jamal, Amaney A., Robert O. Keohane, David Romney, et al. ["Anti-Americanism or Anti-Interventionism in Arabic Twitter Discourses." (PDF)](https://scholar.harvard.edu/files/dtingley/files/aatext.pdf) _Perspectives on Politics_ 13, no. 1 (2015): 55–73.
 
-Corstange, Daniel. "{{% resource_link "21d915e0-5677-4c8e-a444-e307de81b5bc" "Anti-American Behavior in the Middle East: Evidence from a Field Experiment in Lebanon" %}}." _Journal of Politics_ 78, no. 1 (2016): 311–25.
+Corstange, Daniel. "[Anti-American Behavior in the Middle East: Evidence from a Field Experiment in Lebanon](https://www.journals.uchicago.edu/doi/abs/10.1086/683372)." _Journal of Politics_ 78, no. 1 (2016): 311–25.
 
-Nugent, Elizabeth, Tarek Masoud, and Amaney A. Jamal. "{{% resource_link "32a0f64e-8bdc-46a0-aec7-2496c7cbc699" "Arab Responses to Western Hegemony: Experimental Evidence from Egypt" %}}." _Journal of Conflict Resolution_ 62, no. 2 (2016): 254–88.
+Nugent, Elizabeth, Tarek Masoud, and Amaney A. Jamal. "[Arab Responses to Western Hegemony: Experimental Evidence from Egypt](http://journals.sagepub.com/doi/abs/10.1177/0022002716648738)." _Journal of Conflict Resolution_ 62, no. 2 (2016): 254–88.
 
 
 {{< tdclose >}}
