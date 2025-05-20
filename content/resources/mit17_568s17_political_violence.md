@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/7b6b2aff340c1bea87db198054b0244a_MIT17_568S17_Political_Violence.pdf
+file: /courses/17-568-comparative-politics-and-international-relations-of-the-middle-east-spring-2017/7b6b2aff340c1bea87db198054b0244a_MIT17_568S17_Political_Violence.pdf
 file_size: 108041
 file_type: application/pdf
 learning_resource_types:
